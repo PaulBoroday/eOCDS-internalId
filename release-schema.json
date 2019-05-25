@@ -1,0 +1,64 @@
+{
+  "definitions": {
+    "Tender": {
+      "proeprties": {
+        "internalId": {
+          "title":"",
+          "description:"",
+          "type":[
+            "string",
+            "integer"
+           ]
+        }
+      }
+    },
+    "Lot": {
+      "proeprties": {
+        "internalId": {
+          "title":"",
+          "description:"",
+          "type":[
+            "string",
+            "integer"
+           ]
+        }
+      }
+    },
+    "Award": {
+      "proeprties": {
+        "internalId": {
+          "title":"",
+          "description:"",
+          "type":[
+            "string",
+            "integer"
+           ]
+        }
+      }
+    }
+    "Contract": {
+      "properties": {
+        "internalId": {
+          "title":"",
+          "description:"",
+          "type":[
+            "string",
+            "integer"
+           ]
+        }
+      }
+    },
+    "Item": {
+      "properties": {
+        "internalId": {
+          "title":"",
+          "description:"",
+          "type":[
+            "string",
+            "integer"
+           ]
+        }
+      }
+    }
+  }
+}
