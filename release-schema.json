@@ -5,7 +5,10 @@
         "internalId": {
           "title":"",
           "description":"",
-          "type":"string"
+          "type":[
+            "string",
+            "integer"
+          ]
         }
       }
     },
@@ -14,7 +17,10 @@
         "internalId": {
           "title":"",
           "description":"",
-          "type":"string"
+          "type":[
+            "string",
+            "integer"
+          ]
         }
       }
     },
@@ -23,16 +29,22 @@
         "internalId": {
           "title":"",
           "description":"",
-          "type":"string"
+          "type":[
+            "string",
+            "integer"
+          ]
         }
       }
-    }
+    },
     "Contract": {
       "properties": {
         "internalId": {
           "title":"",
           "description":"",
-          "type":"string"
+          "type":[
+            "string",
+            "integer"
+          ]
         }
       }
     },
@@ -41,7 +53,10 @@
         "internalId": {
           "title":"",
           "description":"",
-          "type":"string"
+          "type":[
+            "string",
+            "integer"
+          ]
         }
       }
     }
