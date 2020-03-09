@@ -1,7 +1,7 @@
 {
   "definitions": {
     "Tender": {
-      "proeprties": {
+      "properties": {
         "internalId": {
           "title":"",
           "description":"",
@@ -13,7 +13,7 @@
       }
     },
     "Lot": {
-      "proeprties": {
+      "properties": {
         "internalId": {
           "title":"",
           "description":"",
@@ -25,7 +25,7 @@
       }
     },
     "Award": {
-      "proeprties": {
+      "properties": {
         "internalId": {
           "title":"",
           "description":"",
